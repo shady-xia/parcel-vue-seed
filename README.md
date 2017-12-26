@@ -2,16 +2,18 @@
  parcel + vuejs + vue-router Template
 
 
-`
+```bash
 npm install 
-`
+```
 
-# dev
-`
+## dev
+
+```bash
 npm run dev
-`
+```
 
-# build
-`
+## build
+
+```bash
 npm run build
-`
+```
