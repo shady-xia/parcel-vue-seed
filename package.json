@@ -1,0 +1,26 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html",
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html --public-url /"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.2.2",
+    "babel-preset-env": "^1.6.1",
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.1.0",
+    "postcss-modules": "^1.1.0"
+  },
+  "dependencies": {
+    "parcel-plugin-vue": "^1.4.0",
+    "vue": "^2.5.13",
+    "vue-router": "^3.0.1"
+  }
+}
